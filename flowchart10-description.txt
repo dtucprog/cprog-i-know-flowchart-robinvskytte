@@ -1,0 +1,3 @@
+Start -> Input: Temperature (°C) -> Decision: Is temperature < 10°C
+Yes: Output: "Wear a jacket" -> End
+No: Output: "No jacket needed" -> End
